@@ -1,4 +1,6 @@
 Minimal reproduction repository.
+Issue link : [https://github.com/brianc/node-postgres/issues/3206](https://github.com/brianc/node-postgres/issues/3206)
+Related to prisma, as this is my end goal here. Prisma added support for edge env recently, but their solution is limited to the node-postgres library working in this edge env too.
 
 To start it, those commands are needed :
 ```bash
